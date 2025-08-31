@@ -22,9 +22,3 @@ It is designed to improve **text accuracy and fluency** by reducing errors in ty
 
 ---
 
-## 📂 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ai-autocorrect-tool.git
-   cd ai-autocorrect-tool
